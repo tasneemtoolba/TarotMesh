@@ -110,14 +110,12 @@ npm run dev
 
 ## 📸 Screenshots
 
-![Tarot Reader Screenshot 1](pictures/Screenshot%202025-06-02%20at%2003.38.34.png)
+![Tarot Reader Screenshot 1](pictures/screenshot1.png)
 *Mystical welcome and question collection*
 
-![Tarot Reader Screenshot 2](pictures/Screenshot%202025-06-02%20at%2003.38.45.png)
+![Tarot Reader Screenshot 2](pictures/screenshot2.png)
 *Card drawing and interpretation process*
 
-![Tarot Reader Screenshot 3](pictures/Screenshot%202025-06-02%20at%2003.38.53.png)
-*Complete reading with guidance and insights*
 
 ---
 
