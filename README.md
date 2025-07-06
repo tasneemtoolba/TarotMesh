@@ -1,7 +1,5 @@
 # Mystical Tarot Reader - AI-Powered Divination
 
-## Date: May 18, 2025
-
 ## Overview  
 This is the initial submission for Week 4 of the Flow Hackathon under the **Randomness Revolution** theme.
 
