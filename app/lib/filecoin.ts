@@ -216,4 +216,4 @@ export const filecoinStorage = new FilecoinStorage({
 });
 
 // Export types for use in other modules
-export type { FilecoinStorageConfig, TarotReadingData, CardAsset }; 
+// export type { FilecoinStorageConfig, TarotReadingData, CardAsset }; 

@@ -7,8 +7,8 @@ This is the initial submission for Week 4 of the Flow Hackathon under the **Rand
 
 The project is built using **Next.js** for the frontend and integrates with **Flow EVM** to handle transactions and randomness verification. All transactions are performed on the Flow testnet, allowing users to safely experience mystical readings without using real funds.
 
-- 🔮 **Try Now:** [Vercel Production Link](https://convince-me-agent-tasneemtoolbas-projects.vercel.app/)  
-- 📜 **Smart Contract on FlowScan:** [View Contract](https://evm-testnet.flowscan.io/address/0xYourContractAddressHere)
+- 🔮 **Try Now:** [Vercel Production Link](https://tarot-game-tasneemtoolbas-projects.vercel.app/)  
+- 📜 **Smart Contract on FlowScan:** [View Contract](https://evm-testnet.flowscan.io/address/0xE1F84B3468c6169b3237Be01ff90023d50E26C95)
 - ⚙️ **Settings:** [Configuration Page](/settings)
 
 ---
@@ -71,8 +71,7 @@ The project is built using **Next.js** for the frontend and integrates with **Fl
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tasneemtoolba/May-The-Flow-Be-With-You.git
-cd submissions/0x0012a1ef98accd88/week4/convince-me-agent
+git clone https://github.com/tasneemtoolba/tarotmesh.git
 ```
 
 ### 2. Install dependencies

@@ -461,3 +461,17 @@ export const getDailyReading = async (): Promise<TarotCard[]> => {
         throw new Error('Failed to get daily reading');
     }
 };
+
+export const setFavoriteSpread = async (spread: string): Promise<void> => {
+    if (!contract) {
+        initializeReadOnlyProvider();
+    }
+    if (!contract) throw new Error('Contract not initialized');
+
+    try {
+        await contract.setFavoriteSpread(spread);
+    } catch (error: any) {
+        console.error('Error in setFavoriteSpread:', error);
+        throw new Error('Failed to set favorite spread');
+    }
+};

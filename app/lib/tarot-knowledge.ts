@@ -21,6 +21,7 @@ export interface CardMeaning {
     element?: 'fire' | 'water' | 'air' | 'earth';
     planet?: string;
     zodiac?: string;
+    suit?: 'cups' | 'wands' | 'swords' | 'pentacles';
 }
 
 export interface SpreadPattern {
